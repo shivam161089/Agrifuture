@@ -1,0 +1,8 @@
+{
+  "name": "AgriFuture",
+  "description": "An application designed to assist Indian farmers by providing insights into modern farming techniques and offering a tool to analyze plant health through leaf images, suggesting both organic and non-organic solutions.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
